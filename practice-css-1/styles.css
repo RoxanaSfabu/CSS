@@ -1,0 +1,17 @@
+#secondDiv
+        a:hover { 
+            color:blueviolet
+        }
+
+        .firstDiv:first-child {
+            color:peru
+        }
+
+
+.firstDiv > p {
+    color:firebrick
+    }
+
+.firstDiv h2 + p {
+    color:orange
+}
